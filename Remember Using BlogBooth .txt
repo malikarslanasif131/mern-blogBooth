@@ -1,0 +1,17 @@
+1) To run Full Project Open CMD and Type Command 
+           
+                                             "npm run dev"
+
+2) check console to connect dataBase Successfully  or Not .
+
+
+3) For Login Email : admin@admin.com
+          password: 11
+
+4) for use Build Of react Use command  "npm run build"
+
+    and from server.js file uncomment path line No. 8,9,17,18,27,36
+
+5) change from package.json  change
+
+       script "dev"  concurrently "server" to  "start"

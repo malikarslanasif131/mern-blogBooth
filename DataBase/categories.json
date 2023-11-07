@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "641efd12dd204a898ab9a80e"
+  },
+  "name": "Apps",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679752466057"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679752466057"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641f192e5cecca108dbc0a66"
+  },
+  "name": "How-To",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679759662848"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679759662848"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641f19395cecca108dbc0a6a"
+  },
+  "name": "Technology",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679759673429"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679759673429"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641f194b5cecca108dbc0a72"
+  },
+  "name": "Business",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679759691911"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679759691911"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641f8df93be0d34707cf3e16"
+  },
+  "name": "Islamic",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679789561197"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679789561197"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6421a702a6952dfccc01f47a"
+  },
+  "name": "Uncategorized",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679927042352"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679927042352"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64262d9a104a85dca3abee8b"
+  },
+  "name": "Programming",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680223642981"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680223642981"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6426ad08dab0d4ef40fd5215"
+  },
+  "name": "Car Base",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680256264941"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680256264941"
+    }
+  },
+  "__v": 0
+}]

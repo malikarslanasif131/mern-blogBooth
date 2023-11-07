@@ -1,0 +1,14 @@
+.onHoverBtn:hover{
+    color: #cfcc1c;
+    background-color: #4168a3;
+    border: 2px solid #12aa1a;
+
+}
+
+.text-align-justify-css {
+    text-align: justify;
+}
+
+.font-DecSize-css {
+    font-size: 11px;
+}

@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "641328aafcb82412ad678a8d"
+  },
+  "name": "Malik Arslan Asif",
+  "email": "admin@admin.com",
+  "password": "$2b$10$y/PBtynn11TNoaS.wq.WRODMeDswm3Tk.cHlUDITd8yuJl7REsqyy",
+  "phone": "111112",
+  "address": "1111",
+  "answer": "1111",
+  "role": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678977194636"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679545930739"
+    }
+  },
+  "__v": 0
+}]

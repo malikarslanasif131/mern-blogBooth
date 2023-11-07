@@ -1,0 +1,80 @@
+/* ==========================================================
+                 Author: NavBar
+========================================================== */
+.onHover-list:hover {
+  padding-left: 5%;
+}
+.onHover-icons:hover {
+  font-size: 22px;
+}
+.btnDark:hover {
+  background-color: #1a1919e1;
+}
+/* 
+.checkedBoxStyle{
+
+
+} */
+/* .smSidebar50vh{
+    height: 50vh;
+} */
+
+.text-indent-css {
+  text-indent: 20px;
+}
+
+.sidebar-li:hover {
+  background-color: #b4afaa;
+  margin-left: 0%;
+  margin-right: 0%;
+  transition: 0.1s;
+  transition-delay: 0.1s;
+  padding-left: 5%;
+}
+.sidebar-li:active {
+  background-color: #b4afaa;
+  margin-left: 0%;
+  margin-right: 0%;
+  transition: 0.1s;
+  transition-delay: 0.1s;
+  padding-left: 5%;
+}
+.active-li {
+  background-color: #b4afaa;
+    color: orange important;
+  margin-left: 0%;
+  margin-right: 0%;
+  /* padding-left: 20%;
+        padding-right: 20%; */
+}
+.active-li:active {
+  background-color: #b4afaa;
+  color: orange important;
+  margin-left: 0%;
+  margin-right: 0%;
+}
+/* .active{
+    color: brown;
+} */
+.active{
+  color: orange important;
+}
+
+.sidebar-btn:hover {
+  transition: 0.1s;
+  transition-delay: 0.1s;
+  padding-left: 2%;
+  color: #3f3d3b;
+}
+.onHover:hover {
+  padding-right: 2%;
+}
+
+/* .sidebar-btn button span i:hover {
+   
+    transition: 0.1s;
+    transition-delay: 0.1s;
+    padding-left: 2%;
+    text-decoration: #a85c28;
+    
+} */
